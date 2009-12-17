@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=org.codehaus.sonar.archetypes -DarchetypeArtifactId=sonar-basic-plugin-archetype -DarchetypeVersion=1.12 -DgroupId=org.codehaus.sonar -DartifactId=sonar-ad-authenticator -Dversion=0.1-SNAPSHOT -Dpackage=org.sonar.plugins.adauthentificator
